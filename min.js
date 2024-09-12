@@ -35,3 +35,27 @@ five.addEventListener('click', function() {
 
 
 });
+six.addEventListener('click', function() {
+    img1.src="https://ga-instruction.s3.amazonaws.com/assets/front-end-web-development/fewd-conditionals-images/koyaanisqatsi.jpg"
+
+
+
+});
+seven.addEventListener('click', function() {
+    img1.src="https://ga-instruction.s3.amazonaws.com/assets/front-end-web-development/fewd-conditionals-images/parts-unknown.jpg"
+
+
+
+});
+eight.addEventListener('click', function() {
+    img1.src="https://ga-instruction.s3.amazonaws.com/assets/front-end-web-development/fewd-conditionals-images/star-wars-solo.jpeg"
+
+
+
+});
+nine.addEventListener('click', function() {
+    img1.src="https://ga-instruction.s3.amazonaws.com/assets/front-end-web-development/fewd-conditionals-images/stranger-things.jpg"
+
+
+
+});
